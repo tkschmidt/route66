@@ -1,4 +1,4 @@
-module gitlab.lrz.de/proteomics/route66
+module github.com/tkschmidt/route66
 
 require (
 	github.com/gorilla/websocket v1.4.0 // indirect
